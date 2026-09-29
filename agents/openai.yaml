@@ -1,5 +1,5 @@
 interface:
   display_name: "Interface Forge"
-  short_description: "Research-led UI/UX for web and Electron"
-  brand_color: "#7C3AED"
-  default_prompt: "Use $interface-forge to research, design, and implement a polished interface for this product."
+  short_description: "Website-sourced UI/UX for web and apps"
+  brand_color: "#364B57"
+  default_prompt: "Use $interface-forge to improve this interface. Research only the approved website catalog, show me the exact link for each proposed element, wait for my approval before importing it, and apply Apple's current HIG as a usability benchmark."
